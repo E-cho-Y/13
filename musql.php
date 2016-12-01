@@ -1,4 +1,4 @@
-<meta http-equiv="content-type" content="textml;charset=utf-8">
+﻿<meta http-equiv="content-type" content="textml;charset=utf-8">
 <?php
 #连接数据库
 @$conn=mysql_connect('localhost','root','');
@@ -9,3 +9,7 @@ if(!$conn)
 	die("数据库连接失败".mysql_error());
 }
 ?>
+
+
+
+111
